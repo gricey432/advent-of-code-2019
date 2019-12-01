@@ -1,0 +1,24 @@
+# IDE's
+.idea/*
+!.idea/runConfigurations
+*.iml
+
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+*.egg
+version.txt
+.cache/
+.eggs/
+build/
+dist/
+node_modules/
+.pytest_cache/
+
+# virtual envs
+*venv*/
+*.*env/
+Pipfile*
+pip-wheel-metadata/
